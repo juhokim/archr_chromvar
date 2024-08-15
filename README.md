@@ -1,1 +1,1 @@
-# archr_chromvar
+Run ChromVAR through ArchR
